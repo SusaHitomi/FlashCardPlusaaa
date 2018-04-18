@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FlashCardPlus</string>
+
+    <string name="angry_title">angry</string>
+    <string name="angry_content">She is angry.</string>
+    <string name="angry_meaning">怒る</string>
+
+    <string name="care_title">care</string>
+    <string name="care_content">Do not care.</string>
+    <string name="care_meaning">気にする</string>
+
+    <string name="fun_title">fin</string>
+    <string name="fun_content">It is fun!</string>
+    <string name="fun_meaning">楽しい</string>
+
+    <string name="sorry_title">sorry</string>
+    <string name="sorry_content">I feel sorry.</string>
+    <string name="sorry_meaning">ごめん</string>
+
+    <string name="surprise_title">surprise</string>
+    <string name="surprise_content">I am surprise.</string>
+    <string name="surprise_meaning">驚き</string>
+
+
+</resources>
